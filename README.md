@@ -1,2 +1,4 @@
-# Flutter_App
-Mobile Application using Flutter
+# ReactNative_App
+Mobile Application using React Native.
+
+CRUD operations with Firebase
